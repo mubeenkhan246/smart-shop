@@ -2,6 +2,30 @@
 
 Smart Shop is an offline-first Flutter POS and inventory system for small shops. It includes billing, product stock, expiry alerts, suppliers, employees, salaries, commission, employee presence, approvals, reports, backups, and a laptop-hosted local database server for multi-device use on the same network.
 
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/login.png" alt="Login Screen" width="250"/>
+  <img src="screenshots/dashboard.png" alt="Dashboard" width="250"/>
+  <img src="screenshots/pos.png" alt="POS Billing" width="250"/>
+</div>
+
+<div align="center">
+  <img src="screenshots/products.png" alt="Products" width="250"/>
+  <img src="screenshots/cart.png" alt="Cart" width="250"/>
+  <img src="screenshots/reports.png" alt="Reports" width="250"/>
+</div>
+
+> **Note:** Add your app screenshots to the `screenshots/` folder with the following names:
+> - `login.png` - Login screen
+> - `dashboard.png` - Dashboard/home screen
+> - `pos.png` - POS billing screen
+> - `products.png` - Products management
+> - `cart.png` - Shopping cart
+> - `reports.png` - Reports and analytics
+> 
+> Or add any screenshots you want and update the image references above.
+
 ## Main Features
 
 - Multi-shop support with shop-specific employees and data
