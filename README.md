@@ -5,26 +5,19 @@ Smart Shop is an offline-first Flutter POS and inventory system for small shops.
 ## Screenshots
 
 <div align="center">
-  <img src="screenshots/login.png" alt="Login Screen" width="250"/>
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="250"/>
-  <img src="screenshots/pos.png" alt="POS Billing" width="250"/>
-</div>
+  
+### Login & Dashboard
+<img src="screenshots/1-login.png" alt="Login Screen" width="400"/>
+<img src="screenshots/2-dashboard.png" alt="Dashboard with Sales Metrics" width="400"/>
 
-<div align="center">
-  <img src="screenshots/products.png" alt="Products" width="250"/>
-  <img src="screenshots/cart.png" alt="Cart" width="250"/>
-  <img src="screenshots/reports.png" alt="Reports" width="250"/>
-</div>
+### POS Billing System
+<img src="screenshots/3-pos-products.png" alt="POS - Product Selection" width="400"/>
+<img src="screenshots/4-pos-cart.png" alt="POS - Shopping Cart" width="400"/>
 
-> **Note:** Add your app screenshots to the `screenshots/` folder with the following names:
-> - `login.png` - Login screen
-> - `dashboard.png` - Dashboard/home screen
-> - `pos.png` - POS billing screen
-> - `products.png` - Products management
-> - `cart.png` - Shopping cart
-> - `reports.png` - Reports and analytics
-> 
-> Or add any screenshots you want and update the image references above.
+### Reports & Analytics
+<img src="screenshots/5-reports.png" alt="Reports and Analytics" width="400"/>
+
+</div>
 
 ## Main Features
 

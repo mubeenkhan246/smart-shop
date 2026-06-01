@@ -41,8 +41,7 @@ class SmartShopApp extends ConsumerWidget {
             ? const LoginScreen()
             : shop == null
             ? const ShopSelectionScreen()
-            : const HomeShell(),
-      ),
+            : const HomeShell(),      ),
     );
   }
 
