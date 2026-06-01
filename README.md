@@ -6,16 +6,12 @@ Smart Shop is an offline-first Flutter POS and inventory system for small shops.
 
 <div align="center">
   
-### Login & Dashboard
-<img src="screenshots/1-login.png" alt="Login Screen" width="400"/>
-<img src="screenshots/2-dashboard.png" alt="Dashboard with Sales Metrics" width="400"/>
+<img src="screenshots/1-login.png" alt="Login Screen" width="30%"/>
+<img src="screenshots/2-dashboard.png" alt="Dashboard with Sales Metrics" width="30%"/>
+<img src="screenshots/3-pos-products.png" alt="POS - Product Selection" width="30%"/>
 
-### POS Billing System
-<img src="screenshots/3-pos-products.png" alt="POS - Product Selection" width="400"/>
-<img src="screenshots/4-pos-cart.png" alt="POS - Shopping Cart" width="400"/>
-
-### Reports & Analytics
-<img src="screenshots/5-reports.png" alt="Reports and Analytics" width="400"/>
+<img src="screenshots/4-pos-cart.png" alt="POS - Shopping Cart" width="30%"/>
+<img src="screenshots/5-reports.png" alt="Reports and Analytics" width="30%"/>
 
 </div>
 
